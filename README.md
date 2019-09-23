@@ -39,7 +39,7 @@
 
 ## `进行信访工作` :email:
 
-- 2019.09.23  收到`河北区民政局` ![信访事项处理意见书](https://github.com/netherD/StandupForYouRight/blob/master/%E5%AE%98%E6%96%B9%E5%9B%9E%E6%89%A7/%E6%B2%B3%E5%8C%97%E5%8C%BA%E6%B0%91%E6%94%BF%E4%BF%A1%E8%AE%BF%E5%A4%84%E7%90%86%E6%84%8F%E8%A7%81%E4%B9%A620190923.jpg)。
+- 2019.09.23  收到`河北区民政局` [信访事项处理意见书](https://github.com/netherD/StandupForYouRight/blob/master/%E5%AE%98%E6%96%B9%E5%9B%9E%E6%89%A7/%E6%B2%B3%E5%8C%97%E5%8C%BA%E6%B0%91%E6%94%BF%E4%BF%A1%E8%AE%BF%E5%A4%84%E7%90%86%E6%84%8F%E8%A7%81%E4%B9%A620190923.jpg)。
 - 2019.09.18  `天津市信访办刘处`,`河北区区信访办唐科长`,`河北区民政局赖局长`,`房管局`,`街道武装部段部长` 座谈。
 - 2019.09.16  `天津市政府`
 - 2019.09.11  `河北区信访`，`与街道面谈`
