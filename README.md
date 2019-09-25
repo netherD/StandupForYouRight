@@ -7,7 +7,8 @@
  - [3:登陆维权网站](#登陆维权网站globe_with_meridians)
  - [4:领导回复](#领导回复hammer)
  - [5:进行信访工作](#进行信访工作-email)
- - [6:更多建议？](#更多建议-heart)
+ - [6:文档整理](#文档整理page_with_curl)
+ - [7:更多建议？](#更多建议-heart)
 
 ## `三大诉求`:pushpin:
 - [ ] 坚决反对在小区配建内建立各种形式的养老院、托老所、日间照料等相关概念的养老机构；
@@ -49,6 +50,18 @@
 - 2019.09.06  `天津市河北区民政局`；
 - 2019.09.06  `天津市民政局`；
 - 2019.09.06  `天津市河北区信访办`；
+
+
+
+## `文档整理`:page_with_curl:
+
+整理了一下文档，方便查阅
+
+- [小区内建设养老院的几点疑问](https://github.com/netherD/StandupForYouRight/issues/2)
+- [关于中铁建国际城三期诗景凤苑小区配建建立养老院事宜的申诉](https://github.com/netherD/StandupForYouRight/issues/1)
+- [关于天津市河北区建昌道街诗景凤苑小区违规建立养老院维权诉求](https://github.com/netherD/StandupForYouRight/issues/3)
+- [天津市河北区建昌道街诗景凤苑小区违规建立养老院 上访举报材料](https://github.com/netherD/StandupForYouRight/issues/4)
+
 
 
 
